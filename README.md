@@ -53,3 +53,4 @@ rosrun assignment1 assignment1
 ```bash
 rosrun rqt_graph rqt_graph
 ```
+![alt text](./rosgraph.png)
